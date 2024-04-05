@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_forward</name>
+   <tag></tag>
+   <elementGuidId>ddd0f07a-5593-4b26-bd5c-727f3657eded</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-tooltip-trigger.mat-icon-button.mat-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[button[@class='mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted']]//*[span[@class='mat-button-wrapper']]//*[text()='forward']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5f829676-985d-450d-bfdd-e5f5a226aae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>1cf69bf0-0fbe-4363-884a-5c9d53f68499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-5</value>
+      <webElementGuid>1c3bccf6-45f8-46d6-94d8-86214b6656f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>forward</value>
+      <webElementGuid>bbee9083-93ac-44ea-b7ae-8ddeed4cd398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-star-inserted&quot;]/div[1]/div[2]/app-settlement-registration[@class=&quot;ng-star-inserted&quot;]/mat-drawer-container[@class=&quot;mat-drawer-container mat-drawer-transition mat-drawer-container-has-open&quot;]/mat-drawer[@class=&quot;mat-drawer background-container data-view-drawer maximize ng-tns-c184-7 ng-trigger ng-trigger-transform mat-drawer-end mat-drawer-over ng-star-inserted mat-drawer-opened&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c184-7&quot;]/div[@class=&quot;ng-tns-c184-7&quot;]/div[@class=&quot;overflow-hidden ng-star-inserted&quot;]/div[1]/div[2]/div[1]/div[1]/app-drawer-header[1]/mat-toolbar[@class=&quot;mat-toolbar mat-elevation-z1 drawer-toolbar mat-toolbar-single-row ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>6a7118ba-23dd-4918-8418-e1199855e933</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settlement'])[1]/following::button[2]</value>
+      <webElementGuid>9cb83a47-fcbc-44b6-ba71-8a63d2a4ace5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Document Available'])[1]/following::button[5]</value>
+      <webElementGuid>3502463b-3ca3-4866-b3b7-87f696ea1ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agreement Number'])[1]/preceding::button[1]</value>
+      <webElementGuid>15cd7076-aaa4-4051-a5ec-25e121df01f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[1]/preceding::button[1]</value>
+      <webElementGuid>c56d6496-172a-4a45-9452-9347c3b78b11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-drawer-header/mat-toolbar/button[3]</value>
+      <webElementGuid>dc3ec374-31e3-4f69-9f06-8097210ec509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'forward' or . = 'forward')]</value>
+      <webElementGuid>1eac0c43-44ff-4289-a388-a1534930e0cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search</name>
+   <tag></tag>
+   <elementGuidId>bd4edb37-af7c-4259-af36-04f9595ba879</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-home/mat-sidenav-container/mat-sidenav-content/div/div[1]/app-main-toolbar/mat-toolbar/app-search-bar/form/mat-form-field/div/div[1]/div[4]/button[2]/span/mat-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-home/mat-sidenav-container/mat-sidenav-content/div/div[1]/app-main-toolbar/mat-toolbar/app-search-bar/form/mat-form-field/div/div[1]/div[4]/button[2]/span/mat-icon</value>
+      <webElementGuid>753cdeac-8886-46f6-b115-062d56a789d8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

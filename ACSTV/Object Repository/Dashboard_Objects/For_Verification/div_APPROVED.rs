@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_APPROVED</name>
+   <tag></tag>
+   <elementGuidId>adf86967-0bf7-4ea2-8c3a-9749aa67b165</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.mat-cell.cdk-cell.cdk-column-applicationStatusStr.mat-column-applicationStatusStr.ng-star-inserted > div.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/app-home/mat-sidenav-container/mat-sidenav-content/div/div[2]/app-credit-assessment-processing/mat-drawer-container/mat-drawer-content/mat-drawer-container/mat-drawer-content/mat-tab-group/div/mat-tab-body[1]/div/div/div[3]/app-credit-assessment-processing-data-table/div/div[1]/table/tbody/tr/td[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>91298bc6-e957-4819-b9b7-c589d69bdc72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>dd169b56-5d40-46d0-84d8-da8d555d5698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>APPROVED</value>
+      <webElementGuid>90516e29-5ec9-4df1-a778-2f32532fa4a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-6-0&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c206-179 ng-trigger ng-trigger-translateTab&quot;]/div[@class=&quot;whiteframe-01 ng-star-inserted&quot;]/div[3]/app-credit-assessment-processing-data-table[1]/div[@class=&quot;stroked-top ng-star-inserted&quot;]/div[@class=&quot;overflow-auto ng-star-inserted&quot;]/table[@class=&quot;mat-table cdk-table mat-sort fixed-column-width margin-t-1&quot;]/tbody[1]/tr[@class=&quot;mat-row cdk-row ng-star-inserted&quot;]/td[@class=&quot;mat-cell cdk-cell cdk-column-applicationStatusStr mat-column-applicationStatusStr ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>3b7a4a72-e065-4ae2-9420-2a12ce8a4b7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-6-0']/div/div/div[3]/app-credit-assessment-processing-data-table/div/div/table/tbody/tr/td[10]/div</value>
+      <webElementGuid>83c43b62-d90f-4d2b-aa40-adc1b6cbfdf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BENQ'])[1]/following::div[1]</value>
+      <webElementGuid>ffd9fca1-98dd-4344-8929-646512b4e51b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Máy tính để bàn'])[1]/following::div[2]</value>
+      <webElementGuid>431ab47c-05a7-4f61-959a-fc641b21ef71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FINAL SETTLED'])[1]/preceding::div[1]</value>
+      <webElementGuid>ff6a53f1-60ad-4982-95e9-fc8d543068f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPROVED'])[2]/preceding::div[2]</value>
+      <webElementGuid>479b584f-7042-4e3a-bd81-125aded8dca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/div</value>
+      <webElementGuid>eec0955f-cf9d-4668-aa33-df81300cc286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'APPROVED' or . = 'APPROVED')]</value>
+      <webElementGuid>375210af-a432-418a-adaa-5f6bca26c8a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

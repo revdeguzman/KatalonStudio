@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Credit Assessmentchevron_right</name>
+   <tag></tag>
+   <elementGuidId>60268d83-ac3a-4acf-9c0a-42db07975cc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/app-home/mat-sidenav-container/mat-sidenav/div/app-main-navigation-sidenav/div/div[2]/mat-tab-group/div/mat-tab-body[1]/div/mat-nav-list/mat-list-item[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9a6b0561-6826-44fe-b2a7-4f18f7ce2874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-list-item-content</value>
+      <webElementGuid>2ae8522a-1ee7-49be-b0b4-3b7a2716d8a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Credit Assessmentchevron_right</value>
+      <webElementGuid>1550df8d-8fe6-46ee-97b2-0e50e78e55cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-0-0&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c206-4 ng-trigger ng-trigger-translateTab&quot;]/mat-nav-list[@class=&quot;mat-nav-list mat-list-base side-nav bottom-padded-02 ng-star-inserted&quot;]/mat-list-item[@class=&quot;mat-list-item mat-focus-indicator ng-star-inserted&quot;]/div[@class=&quot;mat-list-item-content&quot;]</value>
+      <webElementGuid>f145736f-449e-49a8-8df0-dc34ffe8551c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-0']/div/mat-nav-list/mat-list-item[3]/div</value>
+      <webElementGuid>5a257ea4-4097-4c44-bcaa-4899c8ccdc14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Maintenance'])[1]/following::div[1]</value>
+      <webElementGuid>33d1c981-ff6f-497b-b5c0-a4f88d93973e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Processing'])[1]/following::div[4]</value>
+      <webElementGuid>4de2d62e-77e8-4ae6-bc0a-2999304fc966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Processing'])[1]/preceding::div[4]</value>
+      <webElementGuid>03841d5f-9fa6-4b90-b6fd-4bbdddb06412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-list-item[3]/div</value>
+      <webElementGuid>91374afc-02ec-4883-8df5-87624f5abd27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Credit Assessmentchevron_right' or . = 'Credit Assessmentchevron_right')]</value>
+      <webElementGuid>87afad40-5d63-474b-867c-5fd7d4f06f03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

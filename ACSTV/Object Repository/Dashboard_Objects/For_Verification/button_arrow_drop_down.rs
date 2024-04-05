@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_arrow_drop_down</name>
+   <tag></tag>
+   <elementGuidId>e5070c0c-37b8-494d-b453-7518aa66813a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-menu-trigger.mat-icon-button.mat-button-base.mat-primary.ng-tns-c156-11.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/app-home/mat-sidenav-container/mat-sidenav-content/div/div[1]/app-main-toolbar/mat-toolbar/app-search-bar/form/mat-form-field/div/div[1]/div[4]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>41ebdcb6-3dc0-4181-a9eb-57b10ae21f5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ab1970c5-3f6e-4a7e-8707-b87ab7fe6944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>3a931bff-16d1-45e2-ad91-12f56082fead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-menu-trigger mat-icon-button mat-button-base mat-primary ng-tns-c156-11 cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>59bba3f4-cd4c-4fca-afd6-eb1158506194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>arrow_drop_down</value>
+      <webElementGuid>8ad7e89a-e96a-4a38-9e94-de1ca42ee86e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-star-inserted&quot;]/div[1]/div[1]/app-main-toolbar[1]/mat-toolbar[@class=&quot;mat-toolbar mat-elevation-z1 main-toolbar mat-primary mat-toolbar-single-row ng-star-inserted&quot;]/app-search-bar[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/mat-form-field[@class=&quot;mat-form-field multiple-action ng-tns-c156-11 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c156-11&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c156-11&quot;]/div[@class=&quot;mat-form-field-suffix ng-tns-c156-11 ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-menu-trigger mat-icon-button mat-button-base mat-primary ng-tns-c156-11 cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>d68060f4-dee5-4c44-b6f2-80cc49e9663a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processing'])[2]/following::button[1]</value>
+      <webElementGuid>350f3370-24e9-4bf3-a524-cd8cda8d5885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processing'])[1]/following::button[2]</value>
+      <webElementGuid>06714e33-34d1-4378-b2b0-cb98b56e4215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::button[3]</value>
+      <webElementGuid>0e0007f1-c1e9-4c39-bc8d-5bb6dd1e64a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếng Việt'])[1]/preceding::button[5]</value>
+      <webElementGuid>d1d9b848-9aa6-403a-b321-b910efa2e2c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>d614aba4-3297-4524-8c74-dfb818023697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'arrow_drop_down' or . = 'arrow_drop_down')]</value>
+      <webElementGuid>11075af4-3172-4e85-b877-a56a1ba603b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_search</name>
+   <tag></tag>
+   <elementGuidId>dc79452c-7cd4-4339-b965-592699153109</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-icon-button.mat-button-base.mat-primary.ng-tns-c156-9.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/app-home/mat-sidenav-container/mat-sidenav-content/div/div[1]/app-main-toolbar/mat-toolbar/app-search-bar/form/mat-form-field/div/div[1]/div[4]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>41f8e67d-c5ed-4b02-8699-d6532f3a4c7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>4af4733f-165d-469a-b1a9-4e7183203db1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-icon-button mat-button-base mat-primary ng-tns-c156-9 cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>1b4cec52-da7c-4515-bda3-9206c96b14c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>27bba04d-61db-4f72-94ca-e66ed391238a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container mat-drawer-transition mat-drawer-container-has-open&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-star-inserted&quot;]/div[1]/div[1]/app-main-toolbar[1]/mat-toolbar[@class=&quot;mat-toolbar mat-elevation-z1 main-toolbar mat-primary mat-toolbar-single-row ng-star-inserted&quot;]/app-search-bar[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-valid ng-star-inserted ng-touched ng-dirty&quot;]/mat-form-field[@class=&quot;mat-form-field multiple-action ng-tns-c156-9 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float ng-valid ng-touched mat-form-field-should-float ng-dirty&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c156-9&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c156-9&quot;]/div[@class=&quot;mat-form-field-suffix ng-tns-c156-9 ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-icon-button mat-button-base mat-primary ng-tns-c156-9 cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>360ecf3c-283f-4a5a-9ed5-96c22e3aaa09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Final Settlement'])[2]/following::button[2]</value>
+      <webElementGuid>15431333-f833-4f2b-9baa-849ad053dc52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settlement Registration (Accountant)'])[1]/following::button[3]</value>
+      <webElementGuid>dd464841-bca7-44e9-908c-d2199370b7e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::button[2]</value>
+      <webElementGuid>0a5c1312-8aac-4f2f-afc9-5751f3990a2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếng Việt'])[1]/preceding::button[4]</value>
+      <webElementGuid>8404b872-13eb-4e98-82f0-0c6529d6ef3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button[2]</value>
+      <webElementGuid>c74c7727-f8b8-4672-9f61-4c45abb598a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'search' or . = 'search')]</value>
+      <webElementGuid>d1b245ed-5314-4e69-a72f-82b392f2fce5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

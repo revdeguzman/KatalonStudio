@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Settlement Registration (Staff)</description>
+   <name>Navigate SR (Staff)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb6d700c-1439-49ce-8ed7-ab9e19453d07</testCaseGuid>
+</TestCaseEntity>

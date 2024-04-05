@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>12e7fec1-c706-4503-a34c-ca4c1672c4ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/app-home/mat-sidenav-container/mat-sidenav/div/app-main-navigation-sidenav/div/div[2]/mat-tab-group/div/mat-tab-body[2]/div/mat-nav-list[2]/a[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f3efb405-7ead-48d3-b150-91d3ed8e2d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-list-item-content</value>
+      <webElementGuid>ec2e04ed-bf93-49bb-888e-ef82b3ffd2a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard </value>
+      <webElementGuid>d4e1103c-2bb8-4a8b-a20a-8c15a6eb9e0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-0-1&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c206-5 ng-trigger ng-trigger-translateTab&quot;]/mat-nav-list[@class=&quot;mat-nav-list mat-list-base side-nav bottom-padded-02 ng-star-inserted&quot;]/a[@class=&quot;mat-list-item mat-focus-indicator ng-star-inserted&quot;]/div[@class=&quot;mat-list-item-content&quot;]</value>
+      <webElementGuid>ec9ff5ee-f0af-47c3-a378-d564a5e7cde3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/mat-nav-list[2]/a[3]/div</value>
+      <webElementGuid>502bab2f-e4f6-40c0-bd96-4da087ecdbe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assessor User Maintenance'])[1]/following::div[1]</value>
+      <webElementGuid>bec0fdc8-c7e9-4a41-93ea-62370618003f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Group Maintenance'])[1]/following::div[4]</value>
+      <webElementGuid>84a32966-aac7-4025-ae2f-219d2a2cb4b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processing'])[1]/preceding::div[4]</value>
+      <webElementGuid>fcc550de-5579-43c1-91c0-e85b06ff7b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::div[10]</value>
+      <webElementGuid>05332f1e-777d-4067-bf2d-93698640a77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dashboard']/parent::*</value>
+      <webElementGuid>31e19129-f272-4655-8bf3-9e2c33ef3089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div</value>
+      <webElementGuid>5b5d1407-91d1-4c51-932f-04f3bfefb704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dashboard ' or . = 'Dashboard ')]</value>
+      <webElementGuid>70da7749-fbe2-4472-8847-a3fb07c40100</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

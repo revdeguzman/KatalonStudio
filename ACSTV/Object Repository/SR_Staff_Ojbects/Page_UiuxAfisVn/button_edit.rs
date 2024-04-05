@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_edit</name>
+   <tag></tag>
+   <elementGuidId>65d2c356-d514-4311-b9f3-15976047ea40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-tooltip-trigger.mat-icon-button.mat-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-star-inserted&quot;]/div[1]/div[2]/app-settlement-registration[@class=&quot;ng-star-inserted&quot;]/mat-drawer-container[@class=&quot;mat-drawer-container mat-drawer-transition mat-drawer-container-has-open&quot;]/mat-drawer[@class=&quot;mat-drawer background-container data-view-drawer maximize ng-tns-c184-7 ng-trigger ng-trigger-transform mat-drawer-end mat-drawer-over ng-star-inserted mat-drawer-opened&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c184-7&quot;]/div[@class=&quot;ng-tns-c184-7&quot;]/div[@class=&quot;overflow-hidden ng-star-inserted&quot;]/div[1]/div[2]/div[1]/div[1]/app-drawer-header[1]/mat-toolbar[@class=&quot;mat-toolbar mat-elevation-z1 drawer-toolbar mat-toolbar-single-row ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;][count(. | //button[@class = 'mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused' and @aria-describedby = 'cdk-describedby-message-2' and (text() = 'edit' or . = 'edit')]) = count(//button[@class = 'mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused' and @aria-describedby = 'cdk-describedby-message-2' and (text() = 'edit' or . = 'edit')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[button[@class='mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted']]//*[span[@class='mat-button-wrapper']]//*[text()='edit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>42074472-5989-4aab-8c18-96e469d5c89d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>1da8df67-101c-4dc4-9da9-3f9620b72836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-2</value>
+      <webElementGuid>14fe1787-f691-4d19-82fe-95539f717279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>edit</value>
+      <webElementGuid>31fe7614-958e-4f75-bdda-3c5a9a7ec49e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-star-inserted&quot;]/div[1]/div[2]/app-settlement-registration[@class=&quot;ng-star-inserted&quot;]/mat-drawer-container[@class=&quot;mat-drawer-container mat-drawer-transition mat-drawer-container-has-open&quot;]/mat-drawer[@class=&quot;mat-drawer background-container data-view-drawer maximize ng-tns-c184-7 ng-trigger ng-trigger-transform mat-drawer-end mat-drawer-over ng-star-inserted mat-drawer-opened&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c184-7&quot;]/div[@class=&quot;ng-tns-c184-7&quot;]/div[@class=&quot;overflow-hidden ng-star-inserted&quot;]/div[1]/div[2]/div[1]/div[1]/app-drawer-header[1]/mat-toolbar[@class=&quot;mat-toolbar mat-elevation-z1 drawer-toolbar mat-toolbar-single-row ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>3cdf05ca-6d75-48e6-9e01-3504263da795</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settlement'])[1]/following::button[1]</value>
+      <webElementGuid>bcdd309e-386a-4d3a-8ebf-cb4037b7f3ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Document Available'])[1]/following::button[4]</value>
+      <webElementGuid>1ff93768-992a-453f-8269-706452c00693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agreement Number'])[1]/preceding::button[2]</value>
+      <webElementGuid>4881e96e-9c44-4814-acf0-4e8766e8fc15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[1]/preceding::button[2]</value>
+      <webElementGuid>ac4d3e9c-ed98-4a2a-bd31-db080b3d1b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-drawer-header/mat-toolbar/button[2]</value>
+      <webElementGuid>616cb561-67b4-47a8-9830-266906a7fef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'edit' or . = 'edit')]</value>
+      <webElementGuid>6f772766-fe47-427f-b690-61ce28729598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filename.jpg'])[1]/following::button[4]</value>
+      <webElementGuid>91e7bed3-e744-4710-865f-e5ddcfdec478</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

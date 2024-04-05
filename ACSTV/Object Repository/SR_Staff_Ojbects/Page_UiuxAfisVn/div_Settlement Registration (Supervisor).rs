@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Settlement Registration (Supervisor)</name>
+   <tag></tag>
+   <elementGuidId>865396db-866e-4ed5-ba69-3442a65f0343</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/mat-nav-list[2]/a[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>20142e1d-1ab3-4c40-94c8-37e103649a05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-list-item-content</value>
+      <webElementGuid>e1523734-000f-4c73-a06e-443afe5b8cc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Settlement Registration (Supervisor) </value>
+      <webElementGuid>c8baaffa-8108-471d-98eb-f9f2321e4ae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-0-1&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c206-7 ng-trigger ng-trigger-translateTab&quot;]/mat-nav-list[@class=&quot;mat-nav-list mat-list-base side-nav bottom-padded-02 ng-star-inserted&quot;]/a[@class=&quot;mat-list-item mat-focus-indicator ng-star-inserted&quot;]/div[@class=&quot;mat-list-item-content&quot;]</value>
+      <webElementGuid>9ed8df14-672b-416d-9ee8-bf022806099a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/mat-nav-list[2]/a[4]/div</value>
+      <webElementGuid>bb5fd2ec-f2ee-4899-a2f0-7281810a3062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Final Settlement'])[1]/following::div[1]</value>
+      <webElementGuid>a1474966-6be1-4210-9992-549b40772e76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Exchange'])[1]/following::div[4]</value>
+      <webElementGuid>afcbb33d-2a4c-46b6-8fd1-7738e01a9d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settlement Registration (Accountant)'])[1]/preceding::div[4]</value>
+      <webElementGuid>44a88423-58f2-43fe-ab2f-a353189d9102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settlement Registration (Staff)'])[2]/preceding::div[10]</value>
+      <webElementGuid>c100877b-7fcc-4c1c-a034-8209fbb21836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Settlement Registration (Supervisor)']/parent::*</value>
+      <webElementGuid>d52ec5a3-0217-43b9-ae4a-f0c8a021c91a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/div</value>
+      <webElementGuid>a99aa1ed-716c-4e96-9ed9-8095b9657307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Settlement Registration (Supervisor) ' or . = 'Settlement Registration (Supervisor) ')]</value>
+      <webElementGuid>f42a0c37-3d10-4851-afdd-0a02e2abe7a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

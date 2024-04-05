@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_301015105312</name>
+   <tag></tag>
+   <elementGuidId>b9ab0a5f-ec55-46a7-83fb-85379cf579f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mat-focus-indicator.mat-button.mat-button-base.mat-primary.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fda98386-650f-4ecf-9b57-cb582ef95124</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>921c2b66-3c1d-45d1-9b94-c319145ac243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-button mat-button-base mat-primary ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>9c515882-35a5-4af8-9454-3fdc70e75f8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>75ff57ed-752c-4c32-9aac-044204a7f1fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>238cc2b7-e425-4e67-8cc2-173aae30cd01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 301015105312 </value>
+      <webElementGuid>0c129ed1-4275-429d-8562-bed24e313cff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-star-inserted&quot;]/div[1]/div[2]/app-settlement-registration[@class=&quot;ng-star-inserted&quot;]/mat-drawer-container[@class=&quot;mat-drawer-container&quot;]/mat-drawer-content[@class=&quot;mat-drawer-content&quot;]/mat-drawer-container[@class=&quot;mat-drawer-container&quot;]/mat-drawer-content[@class=&quot;mat-drawer-content&quot;]/div[@class=&quot;whiteframe-01 ng-star-inserted&quot;]/div[3]/app-settlement-data-table[1]/div[@class=&quot;stroked-top ng-star-inserted&quot;]/div[@class=&quot;overflow-auto ng-star-inserted&quot;]/table[@class=&quot;mat-table cdk-table mat-sort fixed-column-width margin-t-1&quot;]/tbody[1]/tr[@class=&quot;mat-row cdk-row ng-star-inserted&quot;]/td[@class=&quot;mat-cell cdk-cell cdk-column-agreementNumber mat-column-agreementNumber mat-table-sticky link ng-star-inserted&quot;]/a[@class=&quot;mat-focus-indicator mat-button mat-button-base mat-primary ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>3d4aaebb-22f8-41cc-a8ca-a38f86f056f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance Amount'])[1]/following::a[1]</value>
+      <webElementGuid>2301c56b-fa07-42ab-aae1-43358772b163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agreement Date'])[1]/following::a[1]</value>
+      <webElementGuid>62814912-c385-45fd-b6a2-08c6ffed3ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dahyun Kim'])[1]/preceding::a[1]</value>
+      <webElementGuid>8cfc5d66-741f-4134-8b40-aaf2baa053d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forward'])[1]/preceding::a[1]</value>
+      <webElementGuid>63f9d2f3-12ed-4380-9859-dfcc3152f6ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>47fe4795-179a-4219-9cc9-5e1e6ccc3fce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' 301015105312 ' or . = ' 301015105312 ')]</value>
+      <webElementGuid>7e87bdf1-296e-4aff-885a-5d90a4229b7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

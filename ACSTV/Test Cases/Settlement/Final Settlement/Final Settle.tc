@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Final Settle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2f86f23-cd83-4e1c-913a-ad780ee8c6c3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f015ae29-20fa-48ea-9cbb-fbb5b1507c3f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f015ae29-20fa-48ea-9cbb-fbb5b1507c3f</id>
+      <masked>false</masked>
+      <name>AgreementNo</name>
+   </variable>
+</TestCaseEntity>

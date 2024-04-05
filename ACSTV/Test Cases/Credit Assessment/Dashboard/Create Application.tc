@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Application</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>724db9eb-52b6-4293-a162-9464e7ab78d9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>92b93d19-0b6a-4e3f-997e-886dfeb5b081</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>92b93d19-0b6a-4e3f-997e-886dfeb5b081</id>
+      <masked>false</masked>
+      <name>RequestNumber</name>
+   </variable>
+</TestCaseEntity>

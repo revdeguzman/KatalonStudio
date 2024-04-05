@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Settlement</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>37e1cef5-21ba-414c-a040-10bb0ae88f38</testSuiteGuid>
+   <testCaseLink>
+      <guid>3765a167-d866-4973-9a49-de8b0d152667</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Web Credentials/URL</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3bc0cc43-a821-4634-b13c-77ee80c5f9e3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Credential</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>3bc0cc43-a821-4634-b13c-77ee80c5f9e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>URL</value>
+         <variableId>590bde64-f2f9-4343-89fc-40ac9bb0c5ce</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fecd708b-e913-482e-a55f-9b7df7c1d689</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Web Credentials/Log In</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>600097d6-6dc3-4877-9b1a-fdd08469d7a1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Credential</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>600097d6-6dc3-4877-9b1a-fdd08469d7a1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>8aead738-00a7-4805-af9a-836c46b5eed6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>600097d6-6dc3-4877-9b1a-fdd08469d7a1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>38e83f34-2641-40e4-b124-9a49d1649e18</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>252614fd-d9cc-4be7-8742-cb4ef632ca43</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Settlement/Settlement Registration (Staff)/Navigate SR (Staff)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e81a0755-208d-4344-a8ac-40be140ce17e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Settlement/Settlement Registration (Staff)/Staff</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f9421bfe-df52-4faa-bebc-6a31953592f2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Agreements</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f9421bfe-df52-4faa-bebc-6a31953592f2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>AGREEMENTCD</value>
+         <variableId>0ec79a74-d6fe-4e18-b642-10ba9f4d5943</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f9421bfe-df52-4faa-bebc-6a31953592f2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SETTLEMENT DATE</value>
+         <variableId>c07ee3bd-7e27-4bcf-8de0-850a47229ce8</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d36a647a-3d2c-42d9-8db6-3a44c82cfeea</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Settlement/Settlement Registration (Staff)/Navigate to Supervisor</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>da63886a-fe34-410f-92ea-57499b723e6e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Settlement/Settlement Registration (Supervisor)/Supervisor</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4e0c7496-e6be-4998-b646-2f92af6b33cc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Agreements</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>4e0c7496-e6be-4998-b646-2f92af6b33cc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>AGREEMENTCD</value>
+         <variableId>422b4299-05b4-4946-aacc-94db3b974b79</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e48f1ed6-88a8-415a-91ad-d7708fb59e12</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Settlement/Settlement Registration (Supervisor)/Navigate To Accountant</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0dbb76b2-2124-49d3-8f0b-e79e1f2414d1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Settlement/Settlement Registration (Accountant)/Accountant</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9a735f6d-0b7b-48fe-a62c-11051073375f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Agreements</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9a735f6d-0b7b-48fe-a62c-11051073375f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>AGREEMENTCD</value>
+         <variableId>0ff43d7c-dc74-40a5-b025-506a0c0b53fb</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f1c7d4c9-00a3-4b3c-b8ee-44b1009f4468</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Settlement/Settlement Registration (Accountant)/Navigate To Final Settlement</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9a1d395a-62d8-45d5-a987-c45c496f5748</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Settlement/Final Settlement/Final Settle</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>95bd472e-91e8-4941-b968-2c2e88696d9e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Agreements</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>95bd472e-91e8-4941-b968-2c2e88696d9e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>AGREEMENTCD</value>
+         <variableId>f015ae29-20fa-48ea-9cbb-fbb5b1507c3f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d30380b1-e8a8-461d-99e5-52f0b6f74542</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Settlement/Processing_(Verify Agreement Status)/Navigate_Processing</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4c776392-0270-4c51-85eb-5e6f69d69419</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Settlement/Processing_(Verify Agreement Status)/Verify_Agreement_Status</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>897faca8-1adb-4a90-968c-31fef46c718c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Agreements</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>897faca8-1adb-4a90-968c-31fef46c718c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>AGREEMENTCD</value>
+         <variableId>890768a0-afa6-4c55-afd1-cfe77ea0350c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>897faca8-1adb-4a90-968c-31fef46c718c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>AgreementStatus</value>
+         <variableId>23b0d709-f4b0-4a58-8ca6-28f33ba260c7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>897faca8-1adb-4a90-968c-31fef46c718c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>IDCARDNO</value>
+         <variableId>2f18ee5e-39af-4b26-8be3-e06dab0bcc7a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>eb0bd432-4ab7-426e-a621-014d47cb73ce</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Web Credentials/Log Out</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

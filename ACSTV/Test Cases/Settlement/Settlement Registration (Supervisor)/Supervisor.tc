@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Supervisor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc2b2a6f-8906-4359-a17b-1a46a7ae3b49</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>422b4299-05b4-4946-aacc-94db3b974b79</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>422b4299-05b4-4946-aacc-94db3b974b79</id>
+      <masked>false</masked>
+      <name>AgreementNo</name>
+   </variable>
+</TestCaseEntity>

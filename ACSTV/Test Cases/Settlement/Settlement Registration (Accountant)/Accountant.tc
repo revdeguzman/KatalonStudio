@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Accountant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb191bb9-fe1b-4665-9086-48cced842259</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0ff43d7c-dc74-40a5-b025-506a0c0b53fb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0ff43d7c-dc74-40a5-b025-506a0c0b53fb</id>
+      <masked>false</masked>
+      <name>AgreementNo</name>
+   </variable>
+</TestCaseEntity>

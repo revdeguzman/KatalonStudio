@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Main Menu chevron_left</name>
+   <tag></tag>
+   <elementGuidId>e7bb11b9-bfa3-4f99-99ce-0565db767572</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-list-item-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/app-home/mat-sidenav-container/mat-sidenav/div/app-main-navigation-sidenav/div/div[2]/mat-tab-group/div/mat-tab-body[2]/div/mat-nav-list[1]/mat-list-item/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f7e0d688-65e8-4dd2-850c-819121757289</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-list-item-content</value>
+      <webElementGuid>8964e24b-2b09-4e7d-b0e3-027a7a5aa307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Main Menu chevron_left</value>
+      <webElementGuid>8d3aa763-4547-4c58-92a5-4901538458a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-0-1&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c206-5 ng-trigger ng-trigger-translateTab&quot;]/mat-nav-list[@class=&quot;mat-nav-list mat-list-base side-nav ng-star-inserted&quot;]/mat-list-item[@class=&quot;mat-list-item mat-focus-indicator&quot;]/div[@class=&quot;mat-list-item-content&quot;]</value>
+      <webElementGuid>dd75e0da-98fb-4e0c-988c-5f96f2b81c5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/mat-nav-list/mat-list-item/div</value>
+      <webElementGuid>d5f80e24-7512-4361-b570-f1eab06d3131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AFIS'])[1]/following::div[18]</value>
+      <webElementGuid>593c6454-c8da-4ed4-8111-0629e7f446a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settlement Registration (Staff)'])[1]/preceding::div[3]</value>
+      <webElementGuid>e12d2736-5228-4f4c-adcc-b2885b3c9168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-list-item/div</value>
+      <webElementGuid>8aca407a-bfd7-4ce5-940b-9af7390c7e20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Main Menu chevron_left' or . = 'Main Menu chevron_left')]</value>
+      <webElementGuid>9ea7f402-e579-45c5-807f-21bad338aa20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
